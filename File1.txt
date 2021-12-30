@@ -13,3 +13,4 @@ Changed for BUG2
 Change for Stash for WI5 in progress
 
 5. Change for WI6 on local master to test normal PUSH on GH Repo.
+6. Change by team mate on origin for BUG3
